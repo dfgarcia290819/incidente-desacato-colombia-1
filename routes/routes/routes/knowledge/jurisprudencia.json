@@ -1,0 +1,95 @@
+{
+  "sentencias_hito": [
+    {
+      "numero": "T-406/92",
+      "fecha": "1992-06-05",
+      "magistrado": "Ciro Angarita Barón",
+      "tema": "Derechos fundamentales y tutela",
+      "resumen": "Sentencia hito que define los parámetros básicos de la acción de tutela",
+      "citas_aplicables": ["Artículo 86 CP", "Decreto 2591/91"]
+    },
+    {
+      "numero": "SU-047/99",
+      "fecha": "1999-01-22",
+      "magistrado": "José Gregorio Hernández Galindo",
+      "tema": "Efecto prevalente de sentencias de tutela",
+      "resumen": "Establece que las sentencias de tutela tienen efecto prevalente sobre otras decisiones",
+      "citas_aplicables": ["Artículo 86 CP"]
+    },
+    {
+      "numero": "T-760/08",
+      "fecha": "2008-07-31",
+      "magistrado": "Manuel José Cepeda Espinosa",
+      "tema": "Derecho a la salud",
+      "resumen": "Sentencia hito sobre el derecho a la salud como derecho fundamental",
+      "citas_aplicables": ["Artículo 11 CP", "Artículo 48 CP"]
+    },
+    {
+      "numero": "T-025/04",
+      "fecha": "2004-01-22",
+      "magistrado": "Manuel José Cepeda Espinosa",
+      "tema": "Desplazamiento forzado",
+      "resumen": "Reconoce la existencia de un estado de cosas inconstitucional en materia de desplazamiento",
+      "citas_aplicables": ["Artículos 1, 2, 13 CP"]
+    },
+    {
+      "numero": "C-355/06",
+      "fecha": "2006-05-10",
+      "magistrado": "Clara Inés Vargas Hernández",
+      "tema": "Derechos reproductivos",
+      "resumen": "Decisión sobre derechos reproductivos y acceso a servicios de salud",
+      "citas_aplicables": ["Artículos 11, 13 CP"]
+    }
+  ],
+  "sentencias_desacato": [
+    {
+      "numero": "T-097/95",
+      "tema": "Incumplimiento de sentencia",
+      "principio": "El incumplimiento de sentencia de tutela constituye violación de derechos"
+    },
+    {
+      "numero": "T-231/93",
+      "tema": "Ejecución de sentencias",
+      "principio": "Las autoridades están obligadas a cumplir las sentencias de tutela"
+    }
+  ],
+  "articulos_cp_aplicables": {
+    "articulo_2": {
+      "numero": 2,
+      "texto": "Las autoridades de la República están instituidas para proteger a todas las personas residentes en Colombia en su vida, honra, bienes, creencias, y demás derechos y libertades",
+      "aplicacion": "Deber estatal de protección"
+    },
+    "articulo_11": {
+      "numero": 11,
+      "texto": "El derecho a la vida es inviolable",
+      "aplicacion": "Derecho fundamental"
+    },
+    "articulo_13": {
+      "numero": 13,
+      "texto": "Todas las personas nacen libres e iguales ante la ley",
+      "aplicacion": "Igualdad y no discriminación"
+    },
+    "articulo_86": {
+      "numero": 86,
+      "texto": "Toda persona tendrá acción de tutela",
+      "aplicacion": "Fundamento de la acción de tutela"
+    }
+  },
+  "normativa_complementaria": [
+    {
+      "ley": "Decreto 2591 de 1991",
+      "tema": "Procedimiento de acción de tutela",
+      "articulos_clave": [1, 5, 10, 25]
+    },
+    {
+      "ley": "Código de Procedimiento Administrativo y de lo Contencioso Administrativo",
+      "tema": "Procedimientos administrativos",
+      "aplicable_a": "Acciones contra entidades públicas"
+    },
+    {
+      "ley": "Código de Procedimiento Civil",
+      "tema": "Procedimientos civiles",
+      "aplicable_a": "Acciones contra particulares"
+    }
+  ]
+}
